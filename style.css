@@ -2,14 +2,11 @@
   display: flex;
   flex-wrap: wrap;
   width: 960px;
+  border: 1px solid black;
 }
 
 #grid-container div {
   background-color: rgb(193, 193, 193);
-}
-
-#grid-container div:hover {
-  background-color: aquamarine;
 }
 
 button {
