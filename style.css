@@ -1,0 +1,20 @@
+#grid-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 960px;
+}
+
+#grid-container div {
+  background-color: rgb(193, 193, 193);
+}
+
+#grid-container div:hover {
+  background-color: aquamarine;
+}
+
+button {
+  font-size: 24px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  padding: 10px;
+}
